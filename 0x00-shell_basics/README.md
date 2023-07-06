@@ -17,3 +17,4 @@ Task 15-Moves all files beginning with an uppercase letter to specific pre-exisi
 Task 16-Deletes all specific files in current working directory (emacs files ending in ~).
 Task 17-Create directory in a directory,in parent directory.
 Task 18-Lists all files and directories of current directory,separate by (,)directories end with (/),list all files and directories beinging with (.),alphbetically excpet for dir . and ..(must begin list),sort only by digit first then letters,assume all files have atleast 1 letter/digit,end with a new line.
+Task 19-Create specific magic file to be used with file command to detect specific data files.Characteristic of specific file given (School data files always contain the string SCHOOL at offset 0).
