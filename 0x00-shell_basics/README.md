@@ -9,3 +9,4 @@ Task 7-Move non pre-existing file to specific directory.
 Task 8-Delete file in specific directory.
 Task 9-Delete an empty directory in a specific directory.
 Task 10-Change current directory to previous one.
+Task 11-Long format lists all files incl (.) files,files in: current directory,parent of working directory,/boot directory (in this order).
