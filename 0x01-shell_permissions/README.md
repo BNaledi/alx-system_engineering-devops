@@ -5,3 +5,4 @@ Task 2-Prints all groups current user is part of.
 Task 3-Change owner form one user to another.
 Task 4-Create empty file with name.
 Task 5-Give owner execute permissions to owner of named file.
+Task 6-Giver owner and group- execute permissions,others may only read named file.
