@@ -12,3 +12,4 @@ Task 9-Set/change the octal mode/permissions of file in current directory, given
 Task 10-Set the mode of file in current directory as mode of another file in same directory.
 Task 11-Add execute permission to all subdirectories of current directory for u,g,o.Regular files remain unchanged.
 Task 12-Make a directory and set specific octal permissions.
+Task 13-Change owner for named file in current directory to named owner/group.
