@@ -5,4 +5,5 @@ Task 3-Display current directory contents in a long format.
 Task 4-Long format display current directory contents,incl hidden (.) files.
 Task 5-Numerical,long format,display current directory contents,incl hidden (.) files.
 Task 6-Create a directory within non pre-existing directory.
-Task 7-move non pre-existing file to directory
+Task 7-move non pre-existing file to specific directory.
+Task 8-delete file in specific directory.
