@@ -15,4 +15,4 @@ Task 13-Create a symbolic link in current directory to specific directory or fil
 Task 14-Copies all specifc (.html) files from current working directory to parent of working directory,only copy non-prexisting files,latest file versions than those in parent of working directory.
 Task 15-Moves all files beginning with an uppercase letter to specific pre-exisiting directory.
 Task 16-Deletes all specific files in current working directory (emacs files ending in ~).
-Task 17-Create directorym in a directory, in parent directory.
+Task 17-Create directory in a directory,in parent directory.
