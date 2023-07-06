@@ -16,3 +16,4 @@ Task 14-Copies all specifc (.html) files from current working directory to paren
 Task 15-Moves all files beginning with an uppercase letter to specific pre-exisiting directory.
 Task 16-Deletes all specific files in current working directory (emacs files ending in ~).
 Task 17-Create directory in a directory,in parent directory.
+Task 18-Lists all files and directories of current directory,separate by (,)directories end with (/),list all files and directories beinging with (.),alphbetically excpet for dir . and ..(must begin list),sort only by digit first then letters,assume all files have atleast 1 letter/digit,end with a new line.
