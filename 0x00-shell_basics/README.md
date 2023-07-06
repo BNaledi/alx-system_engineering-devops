@@ -12,3 +12,4 @@ Task 10-Change current directory to previous one.
 Task 11-Long format lists all files incl (.) files,files in: current directory,parent of working directory,/boot directory (in this order).
 Task 12-Prints file type of file in specific directory.
 Task 13-Create a symbolic link in current directory to specific directory or file.
+Task 14-Copies all specifc (.html) files from current working directory to parent of working directory,only copy non-prexisting files,latest file versions than those in parent of working directory.
