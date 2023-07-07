@@ -16,3 +16,4 @@ Task 13-Change owner for named file in current directory to named owner/group.
 Task 14-Change owner to newname and group owner to otherNEWname for all the files and directories in the working directory.
 Task 15-Change owner and group owner of named symbolic link file to newname and name, respectively.File is in working directory.
 Task 16-Change owner from to othernamed owner,iff file owned by user named user.File is in working directory.
+Task 17-Write script that plays/streams video in terminal.
