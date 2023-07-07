@@ -13,3 +13,4 @@ Task 10-Set the mode of file in current directory as mode of another file in sam
 Task 11-Add execute permission to all subdirectories of current directory for u,g,o.Regular files remain unchanged.
 Task 12-Make a directory and set specific octal permissions.
 Task 13-Change owner for named file in current directory to named owner/group.
+Task 14-Change owner to newname and group owner to otherNEWname for all the files and directories in the working directory.
