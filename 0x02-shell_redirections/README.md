@@ -14,3 +14,4 @@ Task 12-Display the n newest files in the current directory. One file per line,s
 Task 13-Take a list of words as input and print only words appearing only once.Input format:1 line,1 word,Output format: 1 line,1 word and sort words.
 Task 14-Display lines/info containing given  pattern from named file, in named directory.
 Task 15-Display number of lines that contain given pattern from named file in named directory.
+Task 16-Display lines containing given pattern and n lines after them in named file in named directory.
