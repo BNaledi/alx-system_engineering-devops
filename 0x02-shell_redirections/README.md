@@ -6,3 +6,4 @@ Task 4-Display the last n lines of named file in a named directory.
 Task 5-Display the first n lines of named file in a named directory.
 Task 6-Display the nth line of named file in working directory.MAY NOT use sed.
 Task 7-Create named file to directory (beginning with special characters)containing "text".
+Task 8-Writes into named file the result of named command.If named file pre- exists, it should be overwritten. If named file does not exist create it.
