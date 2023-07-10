@@ -10,3 +10,4 @@ Task 8-Write into named file the result of named command.If named file pre- exis
 Task 9-Duplicates last line the named.File is in working directory.
 Task 10-Delete all/only the regular files (not the dir) of type (.extension) in current directory and all subfolders.
 Task 11-Count number of directories and sub-directories in current directory.Current and parent directories should not be taken into account,hidden directories should be counted.
+Task 12-Display the n newest files in the current directory. One file per line,sorted from the newest to the oldest.
