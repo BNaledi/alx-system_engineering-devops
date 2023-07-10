@@ -9,3 +9,4 @@ Task 7-Create named file to directory (beginning with special characters)contain
 Task 8-Write into named file the result of named command.If named file pre- exists, it should be overwritten. If named file does not exist create it.
 Task 9-Duplicates last line the named.File is in working directory.
 Task 10-Delete all/only the regular files (not the dir) of type (.extension) in current directory and all subfolders.
+Task 11-Count number of directories and sub-directories in current directory.Current and parent directories should not be taken into account,hidden directories should be counted.
