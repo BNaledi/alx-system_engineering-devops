@@ -17,3 +17,4 @@ Task 15-Display number of lines that contain given pattern from named file in na
 Task 16-Display lines containing given pattern and n lines after them in named file in named directory.
 Task 17-Display all lines of named file in named directory that do not contain the given pattern.
 Task 18-Display all lines of named file in named directory starting with a letter,include all letter cases.
+task 19-Replace named characters with other named characters,respectively.
