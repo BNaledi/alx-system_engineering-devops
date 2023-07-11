@@ -20,3 +20,4 @@ Task 18-Display all lines of named file in named directory starting with a lette
 Task 19-Replace named characters with other named characters,respectively.
 Task 20-Remove all named letters from input.
 Task 21-Script that reverses its input.
+Task 22-Display all users and their home directories,sorted by user,based on named file in named directory.
