@@ -21,3 +21,4 @@ Task 19-Replace named characters with other named characters,respectively.
 Task 20-Remove all named letters from input.
 Task 21-Script that reverses its input.
 Task 22-Display all users and their home directories,sorted by user,based on named file in named directory.
+Task 23-Find all empty files and directories in the current directory and all sub-directories.Only the names of files and directories should be displayed (not the entire path),hidden files should be listed,one file name per line,the listing should end with a new line,not allowed to use basename,grep,egrep,fgrep or rgrep.
