@@ -8,3 +8,4 @@ Task 6-Create  new local variable,given name and value.
 Task 7-Create new global variable,given name and value.
 Task 8-Print the result of the Maths operator on x with the value stored in the named environment variable,followed by new line.
 Task 9-Print the result of maths operator on named environment variables,followed by new line.
+Task 10-Display the result of maths operator on named environment variables,followed by new line.
