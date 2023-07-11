@@ -11,3 +11,4 @@ Task 9-Print the result of maths operator on named environment variables,followe
 Task 10-Display the result of maths operator on named environment variables,followed by new line.
 Task 11-Convert a number stored in named environment variable from base 2 to base 10.The script should display the number in base 10,followed by new line.
 Task 12-Print all possible combinations of two letters, except oo.Letters are lower cases,from a to z,One combination per line,The output should be alpha ordered,starting with given starting point,Do not print given restriction script file should contain maximum x characters.
+Task 13-Print a number with desired formating,followed by a new line.The number will be stored as environment variable.
