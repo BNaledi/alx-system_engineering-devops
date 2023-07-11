@@ -4,3 +4,4 @@ Task 2-Add named directory to the PATH.Named directory should be last directory 
 Task 3-Count the number of directories in the PATH.
 Task 4-List environment variables.
 Task 5-List all local variables,environment variables,and functions.
+Task 6-Create a new local variable,given name and value.
