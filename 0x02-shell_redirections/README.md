@@ -19,3 +19,4 @@ Task 17-Display all lines of named file in named directory that do not contain t
 Task 18-Display all lines of named file in named directory starting with a letter,include all letter cases.
 Task 19-Replace named characters with other named characters,respectively.
 Task 20-Remove all named letters from input.
+Task 21-Script that reverses its input.
