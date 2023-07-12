@@ -13,3 +13,4 @@ Task 11-Convert a number stored in named environment variable from base 2 to bas
 Task 12-Print all possible combinations of two letters, except oo.Letters are lower cases,from a to z,One combination per line,The output should be alpha ordered,starting with given starting point,Do not print given restriction script file should contain maximum x characters.
 Task 13-Print a number with desired formating,followed by a new line.The number will be stored as environment variable.
 Task 14-Convert a number stored as named environment variable from base 10 to base 16.Display number in base 16,followed by a new line.
+Task 15-Encodes and decodes text using the named encryption. Assume ASCII.
