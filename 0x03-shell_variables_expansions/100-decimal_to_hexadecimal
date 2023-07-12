@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n $DECIMAL read $DECIMAL printf '%x\n' $DECIMAL
+echo 'DECIMAL=16; 10' | bc
