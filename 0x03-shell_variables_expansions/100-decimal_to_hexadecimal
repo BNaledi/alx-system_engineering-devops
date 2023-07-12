@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($DECIMAL#16))
+echo -n "$DECIMAL" | read $DECIMAL | echo "obase=16; ibase=10; $DECIMAL" | bc
