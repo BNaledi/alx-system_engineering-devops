@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n 10 printf '%x\n' $DECIMAL
+printf '%x\n' 10 a $DECIMAL
