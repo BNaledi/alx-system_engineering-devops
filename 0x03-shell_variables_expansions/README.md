@@ -14,3 +14,5 @@ Task 12-Print all possible combinations of two letters, except oo.Letters are lo
 Task 13-Print a number with desired formating,followed by a new line.The number will be stored as environment variable.
 Task 14-Convert a number stored as named environment variable from base 10 to base 16.Display number in base 16,followed by a new line.
 Task 15-Encodes and decodes text using the named encryption. Assume ASCII.
+Task 16-Print every other line from the input,start with first line.
+Task 17-Add two numbers stored in the given environment variables stored in bases of same name and print.Result should be in designated base bestchol.
